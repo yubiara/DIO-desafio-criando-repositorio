@@ -1,4 +1,4 @@
-______Teste manual vs. automatizado____
+#______Teste manual vs. automatizado____#
 
 É importante fazer uma distinção entre testes manuais e automatizados. Teste manual é presencial, ao clicar no aplicativo ou interagir com o software e as APIs com as ferramentas adequadas. Mas o teste manual tem um custo muito alto, já que requer alguém para configurar um ambiente e executar os testes por si mesmo e pode estar propenso a erros humanos, uma vez que o testador pode cometer erros ortográficos ou omitir etapas no script de teste.
 
